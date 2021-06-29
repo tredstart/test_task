@@ -1,0 +1,47 @@
+[
+  {
+    "email": "john.smith@gmail.com",
+    "amount": 200,
+    "currency": "USD",
+    "address": {
+      "street": "Bakery 4",
+      "zipcode": "00201",
+      "city": "New York",
+      "country": "USA"
+    },
+    "product": {
+      "name": "iPhone 5",
+      "quantity": 1
+    }
+  },
+  {
+    "email": "mary.smart@gmail.com",
+    "amount": 1000,
+    "currency": "EUR",
+    "address": {
+      "street": "Garden Str. 4",
+      "zipcode": "90819",
+      "city": "London",
+      "country": "England"
+    },
+    "product": {
+      "name": "iPhone 8",
+      "quantity": 1
+    }
+  },
+  {
+    "email": "mary.smart@gmail.com",
+    "amount": 300,
+    "currency": "EUR",
+    "address": {
+      "street": "Garden Str. 4",
+      "zipcode": "90819",
+      "city": "London",
+      "country": "England"
+    },
+    "product": {
+      "name": "Bose Headset",
+      "quantity": 1
+    }
+  }
+]
